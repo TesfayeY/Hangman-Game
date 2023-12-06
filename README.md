@@ -1,4 +1,3 @@
 # Hangman-Game
-When you run this python script it will choose a word from the word.txt file. it will show you how many characters are there in this word and asks you to enter a character. you will get 8 chances to guess a right word. your chance will be decreamented whenever you guess wrong word.
+The code will choose a word from the word.txt file, show you how many characters are in this word, and ask you to enter a character. The player will get eight (8) chances to guess the right word, while your chance will be decremented whenever you guess the wrong word.
 
-Make sure to put this both file in one directory.
